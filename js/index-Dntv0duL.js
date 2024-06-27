@@ -1,0 +1,2 @@
+import{_ as t}from"./_plugin-vue_export-helper-5heKHmp9.js";import{k as r,B as c}from"./index-BjHMDF8n.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},n=new Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="1cca735b-327f-4722-964f-92129d67eac9",e._sentryDebugIdIdentifier="sentry-dbid-1cca735b-327f-4722-964f-92129d67eac9")}catch{}})();const d={};function f(e,n){return r(),c("div",null," Menu ")}const i=t(d,[["render",f]]);export{i as default};
+//# sourceMappingURL=index-Dntv0duL.js.map
